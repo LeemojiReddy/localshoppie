@@ -1,0 +1,18 @@
+.locate-button{
+    background-color:orange;
+}
+.anchor-header:hover {
+    color:orange;
+    border:none;
+
+}
+.icon:hover{
+    color:rgb(255, 166, 0);
+}
+.anchor-header{
+    color:white;
+    background-color:rgb(0, 140, 255);
+    border:none;
+
+}
+
